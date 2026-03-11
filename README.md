@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rintonurtantho
 - 👀 I’m interested in football, information technology
-- 🌱 I’m currently learning cloud computing and cybersecurity
-- 💞️ I’m looking to collaborate on AWS, GCP and other cloud services
+- 🌱 I’m currently upgrading azure and cybersecurity skill
 - 📫 How to reach me rintonurtantho@ymail.com
 
 <!---
